@@ -2,7 +2,7 @@
 
 ## ** Overview of Project **
 
-### * * Purpose * *
+### ** Purpose **
 
 This project was to assess kickstarter campaign data for a variety of categories and countries. The purpose of this project was to analyze campaign outcomes, specifically for Theater campaigns and plays in particular. The goal of the analysis was to identify theater outcomes based on their launch date as well as outcomes for plays based on goal numbers and to identify any conclusions from the analysis of these numbers. 
 
