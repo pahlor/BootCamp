@@ -1,30 +1,30 @@
-# Kickstarting with Excel
+#Kickstarting with Excel
 
-## **Overview of Project**
+##**Overview of Project**
 
-### **Purpose**
+###**Purpose**
 
 This project was to assess kickstarter campaign data for a variety of categories and countries. The purpose of this project was to analyze campaign outcomes, specifically for Theater campaigns and plays in particular. The goal of the analysis was to identify theater outcomes based on their launch date as well as outcomes for plays based on goal numbers and to identify any conclusions from the analysis of these numbers. 
 
-## **Analysis and Challenges**
+##**Analysis and Challenges**
 
 To perform my analysis, I first had to make sure all filters were cleared from my 'Kickstarter' spreadsheet. I then had to create new sheets within my spreadsheet to hold the analyses I wanted to do ("Theater Outcomes by Launch Date" and "Outcomes Based on Goals").
 
-### * *Analysis of Outcomes Based on Launch Date* *
+###*Analysis of Outcomes Based on Launch Date*
 
 
 
 https://github.com/pahlor/BootCamp/blob/main/Module%201%20Challenge/Resources/Theater_Outcomes_vs_Launch.png
 
-### * *Analysis of Outcomes Based on Goals* *
+###*Analysis of Outcomes Based on Goals* 
 
 
 
-### * *Challenges and Difficulties Encountered* * 
+###*Challenges and Difficulties Encountered* 
 
 
 
-## **Results**
+##**Results**
 
 From our data on outcomes based on launch date, we can conclude the most successful months for plays are in the summer during the months of May and June. These are also the months were there are the most plays launched. 
 
