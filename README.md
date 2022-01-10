@@ -14,10 +14,10 @@ To perform my analysis, I first had to make sure all filters were cleared from m
 
 To create the pivot table for my outcomes based on launch date, I selected all of my data from the 'Kickstarter' spreadsheet. Then I inserted a pivot table and placed the pivot table into a new sheet in the workbook. I selected the filters based on years and subcategory, with outcomes as my row option, date created conversion as my columns option, and count of date as my outcomes. Lastly, I inserted a line plot graph using the data in my pivot table.
 
-Copy of pivot table:
-![](Module%201%20Challenge/Resources/Outcomes by Launch Date Pivot.png)
+###### *Copy of pivot table:*
+![](Module%201%20Challenge/Resources/Outcomes%20by%20Launch%20Date%20Pivot.png)
 
-Graph of Theater Outcomes Based on Launch Date:
+###### *Graph of Theater Outcomes Based on Launch Date:*
 ![](Module%201%20Challenge/Resources/Theater_Outcomes_vs_Launch.png)
 
 ### *Analysis of Outcomes Based on Goals* 
@@ -32,7 +32,7 @@ To analyze my outcomes based on goals data, I had to sort the Kickstarter plays 
 
 ![](Module%201%20Challenge/Resources/Formula_Failed_CountIF.png)
 
-Graph of Outcomes Based on Goals:
+###### *Graph of Outcomes Based on Goals:*
 ![](Module%201%20Challenge/Resources/Outcomes_vs_Goals.png)
 
 ### *Challenges and Difficulties Encountered* 
